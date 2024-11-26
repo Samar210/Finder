@@ -40,6 +40,11 @@ header .headerContainer .heading1 {
     left: 28%;
 }
 
+header .headerContainer .heading1 h1{
+    font-size:50px;
+    line-height: 70px;
+}
+
 header .headerContainer .heading1 h1::selection {
     background-color: #397078;
 }
